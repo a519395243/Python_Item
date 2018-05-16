@@ -1,0 +1,251 @@
+Top1 电影名：肖申克的救赎 / The Shawshank Redemption  评分：9.6
+Top2 电影名：霸王别姬  评分：9.5
+Top3 电影名：这个杀手不太冷 / Léon  评分：9.4
+Top4 电影名：阿甘正传 / Forrest Gump  评分：9.4
+Top5 电影名：美丽人生 / La vita è bella  评分：9.5
+Top6 电影名：千与千寻 / 千と千尋の神隠し  评分：9.3
+Top7 电影名：泰坦尼克号 / Titanic  评分：9.3
+Top8 电影名：辛德勒的名单 / Schindler's List  评分：9.4
+Top9 电影名：盗梦空间 / Inception  评分：9.3
+Top10 电影名：机器人总动员 / WALL·E  评分：9.3
+Top11 电影名：海上钢琴师 / La leggenda del pianista sull'oceano  评分：9.2
+Top12 电影名：三傻大闹宝莱坞 / 3 Idiots  评分：9.2
+Top13 电影名：忠犬八公的故事 / Hachi: A Dog's Tale  评分：9.2
+Top14 电影名：放牛班的春天 / Les choristes  评分：9.2
+Top15 电影名：大话西游之大圣娶亲 / 西遊記大結局之仙履奇緣  评分：9.2
+Top16 电影名：楚门的世界 / The Truman Show  评分：9.1
+Top17 电影名：龙猫 / となりのトトロ  评分：9.1
+Top18 电影名：教父 / The Godfather  评分：9.2
+Top19 电影名：熔炉 / 도가니  评分：9.2
+Top20 电影名：星际穿越 / Interstellar  评分：9.2
+Top21 电影名：乱世佳人 / Gone with the Wind  评分：9.2
+Top22 电影名：触不可及 / Intouchables  评分：9.1
+Top23 电影名：无间道 / 無間道  评分：9.0
+Top24 电影名：当幸福来敲门 / The Pursuit of Happyness  评分：8.9
+Top25 电影名：天堂电影院 / Nuovo Cinema Paradiso  评分：9.1
+Top26 电影名：怦然心动 / Flipped  评分：8.9
+Top27 电影名：十二怒汉 / 12 Angry Men  评分：9.4
+Top28 电影名：搏击俱乐部 / Fight Club  评分：9.0
+Top29 电影名：少年派的奇幻漂流 / Life of Pi  评分：9.0
+Top30 电影名：鬼子来了  评分：9.2
+Top31 电影名：蝙蝠侠：黑暗骑士 / The Dark Knight  评分：9.1
+Top32 电影名：活着  评分：9.1
+Top33 电影名：指环王3：王者无敌 / The Lord of the Rings: The Return of the King  评分：9.1
+Top34 电影名：天空之城 / 天空の城ラピュタ  评分：9.0
+Top35 电影名：疯狂动物城 / Zootopia  评分：9.2
+Top36 电影名：大话西游之月光宝盒 / 西遊記第壹佰零壹回之月光寶盒  评分：8.9
+Top37 电影名：罗马假日 / Roman Holiday  评分：8.9
+Top38 电影名：飞屋环游记 / Up  评分：8.9
+Top39 电影名：窃听风暴 / Das Leben der Anderen  评分：9.1
+Top40 电影名：两杆大烟枪 / Lock, Stock and Two Smoking Barrels  评分：9.1
+Top41 电影名：控方证人 / Witness for the Prosecution  评分：9.6
+Top42 电影名：飞越疯人院 / One Flew Over the Cuckoo's Nest  评分：9.0
+Top43 电影名：闻香识女人 / Scent of a Woman  评分：8.9
+Top44 电影名：哈尔的移动城堡 / ハウルの動く城  评分：8.9
+Top45 电影名：海豚湾 / The Cove  评分：9.3
+Top46 电影名：V字仇杀队 / V for Vendetta  评分：8.8
+Top47 电影名：辩护人 / 변호인  评分：9.1
+Top48 电影名：死亡诗社 / Dead Poets Society  评分：9.0
+Top49 电影名：教父2 / The Godfather: Part Ⅱ  评分：9.1
+Top50 电影名：美丽心灵 / A Beautiful Mind  评分：8.9
+Top51 电影名：指环王2：双塔奇兵 / The Lord of the Rings: The Two Towers  评分：9.0
+Top52 电影名：指环王1：魔戒再现 / The Lord of the Rings: The Fellowship of the Ring  评分：8.9
+Top53 电影名：情书 / Love Letter  评分：8.8
+Top54 电影名：饮食男女 / 飲食男女  评分：9.1
+Top55 电影名：摔跤吧！爸爸 / Dangal  评分：9.1
+Top56 电影名：美国往事 / Once Upon a Time in America  评分：9.1
+Top57 电影名：狮子王 / The Lion King  评分：8.9
+Top58 电影名：钢琴家 / The Pianist  评分：9.0
+Top59 电影名：天使爱美丽 / Le fabuleux destin d'Amélie Poulain  评分：8.7
+Top60 电影名：素媛 / 소원  评分：9.1
+Top61 电影名：七宗罪 / Se7en  评分：8.7
+Top62 电影名：小鞋子 / بچههای آسمان  评分：9.2
+Top63 电影名：被嫌弃的松子的一生 / 嫌われ松子の一生  评分：8.9
+Top64 电影名：致命魔术 / The Prestige  评分：8.8
+Top65 电影名：看不见的客人 / Contratiempo  评分：8.8
+Top66 电影名：音乐之声 / The Sound of Music  评分：8.9
+Top67 电影名：勇敢的心 / Braveheart  评分：8.8
+Top68 电影名：剪刀手爱德华 / Edward Scissorhands  评分：8.7
+Top69 电影名：本杰明·巴顿奇事 / The Curious Case of Benjamin Button  评分：8.8
+Top70 电影名：低俗小说 / Pulp Fiction  评分：8.8
+Top71 电影名：西西里的美丽传说 / Malèna  评分：8.7
+Top72 电影名：黑客帝国 / The Matrix  评分：8.8
+Top73 电影名：拯救大兵瑞恩 / Saving Private Ryan  评分：8.9
+Top74 电影名：沉默的羔羊 / The Silence of the Lambs  评分：8.7
+Top75 电影名：入殓师 / おくりびと  评分：8.8
+Top76 电影名：蝴蝶效应 / The Butterfly Effect  评分：8.7
+Top77 电影名：让子弹飞  评分：8.7
+Top78 电影名：春光乍泄 / 春光乍洩  评分：8.8
+Top79 电影名：玛丽和马克思 / Mary and Max  评分：8.9
+Top80 电影名：大闹天宫  评分：9.2
+Top81 电影名：心灵捕手 / Good Will Hunting  评分：8.8
+Top82 电影名：末代皇帝 / The Last Emperor  评分：8.9
+Top83 电影名：阳光灿烂的日子  评分：8.8
+Top84 电影名：幽灵公主 / もののけ姫  评分：8.8
+Top85 电影名：第六感 / The Sixth Sense  评分：8.8
+Top86 电影名：重庆森林 / 重慶森林  评分：8.7
+Top87 电影名：禁闭岛 / Shutter Island  评分：8.7
+Top88 电影名：布达佩斯大饭店 / The Grand Budapest Hotel  评分：8.8
+Top89 电影名：大鱼 / Big Fish  评分：8.7
+Top90 电影名：哈利·波特与魔法石 / Harry Potter and the Sorcerer's Stone  评分：8.7
+Top91 电影名：狩猎 / Jagten  评分：9.0
+Top92 电影名：射雕英雄传之东成西就 / 射鵰英雄傳之東成西就  评分：8.7
+Top93 电影名：致命ID / Identity  评分：8.6
+Top94 电影名：甜蜜蜜  评分：8.8
+Top95 电影名：猫鼠游戏 / Catch Me If You Can  评分：8.7
+Top96 电影名：断背山 / Brokeback Mountain  评分：8.6
+Top97 电影名：一一  评分：8.9
+Top98 电影名：告白  评分：8.7
+Top99 电影名：阳光姐妹淘 / 써니  评分：8.8
+Top100 电影名：加勒比海盗 / Pirates of the Caribbean: The Curse of the Black Pearl  评分：8.6
+Top101 电影名：上帝之城 / Cidade de Deus  评分：8.9
+Top102 电影名：摩登时代 / Modern Times  评分：9.2
+Top103 电影名：穿条纹睡衣的男孩 / The Boy in the Striped Pajamas  评分：8.9
+Top104 电影名：阿凡达 / Avatar  评分：8.6
+Top105 电影名：爱在黎明破晓前 / Before Sunrise  评分：8.7
+Top106 电影名：消失的爱人 / Gone Girl  评分：8.7
+Top107 电影名：风之谷 / 風の谷のナウシカ  评分：8.8
+Top108 电影名：爱在日落黄昏时 / Before Sunset  评分：8.7
+Top109 电影名：侧耳倾听 / 耳をすませば  评分：8.8
+Top110 电影名：红辣椒 / パプリカ  评分：8.9
+Top111 电影名：倩女幽魂  评分：8.6
+Top112 电影名：超脱 / Detachment  评分：8.8
+Top113 电影名：恐怖直播 / 더 테러 라이브  评分：8.7
+Top114 电影名：驯龙高手 / How to Train Your Dragon  评分：8.7
+Top115 电影名：萤火虫之墓 / 火垂るの墓  评分：8.7
+Top116 电影名：幸福终点站 / The Terminal  评分：8.6
+Top117 电影名：菊次郎的夏天 / 菊次郎の夏  评分：8.7
+Top118 电影名：小森林 夏秋篇 / リトル・フォレスト 夏・秋  评分：8.9
+Top119 电影名：喜剧之王 / 喜劇之王  评分：8.5
+Top120 电影名：七武士 / 七人の侍  评分：9.2
+Top121 电影名：借东西的小人阿莉埃蒂 / 借りぐらしのアリエッティ  评分：8.7
+Top122 电影名：岁月神偷 / 歲月神偷  评分：8.6
+Top123 电影名：神偷奶爸 / Despicable Me  评分：8.5
+Top124 电影名：杀人回忆 / 살인의 추억  评分：8.7
+Top125 电影名：海洋 / Océans  评分：9.0
+Top126 电影名：真爱至上 / Love Actually  评分：8.5
+Top127 电影名：电锯惊魂 / Saw  评分：8.7
+Top128 电影名：贫民窟的百万富翁 / Slumdog Millionaire  评分：8.5
+Top129 电影名：谍影重重3 / The Bourne Ultimatum  评分：8.7
+Top130 电影名：喜宴 / 囍宴  评分：8.8
+Top131 电影名：东邪西毒 / 東邪西毒  评分：8.6
+Top132 电影名：记忆碎片 / Memento  评分：8.5
+Top133 电影名：雨人 / Rain Man  评分：8.6
+Top134 电影名：怪兽电力公司 / Monsters, Inc.  评分：8.6
+Top135 电影名：黑天鹅 / Black Swan  评分：8.5
+Top136 电影名：英雄本色  评分：8.7
+Top137 电影名：疯狂原始人 / The Croods  评分：8.7
+Top138 电影名：燃情岁月 / Legends of the Fall  评分：8.7
+Top139 电影名：卢旺达饭店 / Hotel Rwanda  评分：8.8
+Top140 电影名：虎口脱险 / La grande vadrouille  评分：8.9
+Top141 电影名：小森林 冬春篇 / リトル・フォレスト 冬・春  评分：8.9
+Top142 电影名：7号房的礼物 / 7번방의 선물  评分：8.7
+Top143 电影名：恋恋笔记本 / The Notebook  评分：8.5
+Top144 电影名：傲慢与偏见 / Pride & Prejudice  评分：8.5
+Top145 电影名：海边的曼彻斯特 / Manchester by the Sea  评分：8.6
+Top146 电影名：哈利·波特与死亡圣器(下) / Harry Potter and the Deathly Hallows: Part 2  评分：8.7
+Top147 电影名：萤火之森 / 蛍火の杜へ  评分：8.7
+Top148 电影名：完美的世界 / A Perfect World  评分：9.0
+Top149 电影名：教父3 / The Godfather: Part III  评分：8.8
+Top150 电影名：荒蛮故事 / Relatos salvajes  评分：8.8
+Top151 电影名：纵横四海 / 緃横四海  评分：8.7
+Top152 电影名：二十二  评分：8.8
+Top153 电影名：魂断蓝桥 / Waterloo Bridge  评分：8.8
+Top154 电影名：猜火车 / Trainspotting  评分：8.5
+Top155 电影名：穿越时空的少女 / 時をかける少女  评分：8.6
+Top156 电影名：玩具总动员3 / Toy Story 3  评分：8.8
+Top157 电影名：花样年华 / 花樣年華  评分：8.5
+Top158 电影名：雨中曲 / Singin' in the Rain  评分：9.0
+Top159 电影名：心迷宫  评分：8.6
+Top160 电影名：时空恋旅人 / About Time  评分：8.6
+Top161 电影名：唐伯虎点秋香 / 唐伯虎點秋香  评分：8.4
+Top162 电影名：超能陆战队 / Big Hero 6  评分：8.6
+Top163 电影名：我是山姆 / I Am Sam  评分：8.8
+Top164 电影名：蝙蝠侠：黑暗骑士崛起 / The Dark Knight Rises  评分：8.6
+Top165 电影名：人工智能 / Artificial Intelligence: AI  评分：8.6
+Top166 电影名：浪潮 / Die Welle  评分：8.7
+Top167 电影名：冰川时代 / Ice Age  评分：8.4
+Top168 电影名：香水 / Perfume: The Story of a Murderer  评分：8.4
+Top169 电影名：朗读者 / The Reader  评分：8.5
+Top170 电影名：请以你的名字呼唤我 / Call Me by Your Name  评分：8.8
+Top171 电影名：罗生门 / 羅生門  评分：8.7
+Top172 电影名：爆裂鼓手 / Whiplash  评分：8.6
+Top173 电影名：追随 / Following  评分：8.9
+Top174 电影名：一次别离 / جدایی نادر از سیمین  评分：8.7
+Top175 电影名：未麻的部屋 / Perfect Blue  评分：8.8
+Top176 电影名：血战钢锯岭 / Hacksaw Ridge  评分：8.7
+Top177 电影名：撞车 / Crash  评分：8.6
+Top178 电影名：可可西里  评分：8.7
+Top179 电影名：战争之王 / Lord of War  评分：8.5
+Top180 电影名：恐怖游轮 / Triangle  评分：8.3
+Top181 电影名：地球上的星星 / Taare Zameen Par  评分：8.8
+Top182 电影名：梦之安魂曲 / Requiem for a Dream  评分：8.7
+Top183 电影名：达拉斯买家俱乐部 / Dallas Buyers Club  评分：8.7
+Top184 电影名：被解救的姜戈 / Django Unchained  评分：8.6
+Top185 电影名：阿飞正传 / 阿飛正傳  评分：8.5
+Top186 电影名：牯岭街少年杀人事件 / 牯嶺街少年殺人事件  评分：8.7
+Top187 电影名：谍影重重 / The Bourne Identity  评分：8.5
+Top188 电影名：魔女宅急便 / 魔女の宅急便  评分：8.5
+Top189 电影名：谍影重重2 / The Bourne Supremacy  评分：8.5
+Top190 电影名：小萝莉的猴神大叔 / Bajrangi Bhaijaan  评分：8.6
+Top191 电影名：房间 / Room  评分：8.8
+Top192 电影名：头脑特工队 / Inside Out  评分：8.7
+Top193 电影名：惊魂记 / Psycho  评分：8.9
+Top194 电影名：忠犬八公物语 / ハチ公物語  评分：9.0
+Top195 电影名：碧海蓝天 / Le grand bleu  评分：8.7
+Top196 电影名：再次出发之纽约遇见你 / Begin Again  评分：8.5
+Top197 电影名：青蛇  评分：8.4
+Top198 电影名：东京物语 / 東京物語  评分：9.2
+Top199 电影名：哪吒闹海  评分：8.9
+Top200 电影名：秒速5厘米 / 秒速5センチメートル  评分：8.3
+Top201 电影名：末路狂花 / Thelma & Louise  评分：8.7
+Top202 电影名：海盗电台 / The Boat That Rocked  评分：8.6
+Top203 电影名：模仿游戏 / The Imitation Game  评分：8.6
+Top204 电影名：绿里奇迹 / The Green Mile  评分：8.7
+Top205 电影名：终结者2：审判日 / Terminator 2: Judgment Day  评分：8.6
+Top206 电影名：源代码 / Source Code  评分：8.3
+Top207 电影名：黑客帝国3：矩阵革命 / The Matrix Revolutions  评分：8.5
+Top208 电影名：新龙门客栈 / 新龍門客棧  评分：8.5
+Top209 电影名：勇闯夺命岛 / The Rock  评分：8.5
+Top210 电影名：这个男人来自地球 / The Man from Earth  评分：8.5
+Top211 电影名：一个叫欧维的男人决定去死 / En man som heter Ove  评分：8.7
+Top212 电影名：你的名字。 / 君の名は。  评分：8.4
+Top213 电影名：卡萨布兰卡 / Casablanca  评分：8.6
+Top214 电影名：城市之光 / City Lights  评分：9.2
+Top215 电影名：变脸 / Face/Off  评分：8.4
+Top216 电影名：荒野生存 / Into the Wild  评分：8.6
+Top217 电影名：E.T. 外星人 / E.T.: The Extra-Terrestrial  评分：8.5
+Top218 电影名：迁徙的鸟 / Le peuple migrateur  评分：9.1
+Top219 电影名：初恋这件小事 / สิ่งเล็กเล็กที่เรียกว่า...รัก  评分：8.3
+Top220 电影名：无耻混蛋 / Inglourious Basterds  评分：8.4
+Top221 电影名：发条橙 / A Clockwork Orange  评分：8.4
+Top222 电影名：黄金三镖客 / Il buono, il brutto, il cattivo.  评分：9.1
+Top223 电影名：美国丽人 / American Beauty  评分：8.4
+Top224 电影名：无人知晓 / 誰も知らない  评分：9.0
+Top225 电影名：爱在午夜降临前 / Before Midnight  评分：8.8
+Top226 电影名：英国病人 / The English Patient  评分：8.4
+Top227 电影名：燕尾蝶 / スワロウテイル  评分：8.6
+Top228 电影名：非常嫌疑犯 / The Usual Suspects  评分：8.6
+Top229 电影名：疯狂的石头  评分：8.3
+Top230 电影名：叫我第一名 / Front of the Class  评分：8.6
+Top231 电影名：勇士 / Warrior  评分：8.9
+Top232 电影名：穆赫兰道 / Mulholland Dr.  评分：8.3
+Top233 电影名：无敌破坏王 / Wreck-It Ralph  评分：8.6
+Top234 电影名：国王的演讲 / The King's Speech  评分：8.3
+Top235 电影名：步履不停 / 歩いても 歩いても  评分：8.8
+Top236 电影名：血钻 / Blood Diamond  评分：8.5
+Top237 电影名：彗星来的那一夜 / Coherence  评分：8.4
+Top238 电影名：上帝也疯狂 / The Gods Must Be Crazy  评分：8.6
+Top239 电影名：枪火 / 鎗火  评分：8.6
+Top240 电影名：大卫·戈尔的一生 / The Life of David Gale  评分：8.6
+Top241 电影名：蓝色大门 / 藍色大門  评分：8.3
+Top242 电影名：遗愿清单 / The Bucket List  评分：8.5
+Top243 电影名：我爱你 / 그대를 사랑합니다  评分：9.0
+Top244 电影名：荒岛余生 / Cast Away  评分：8.5
+Top245 电影名：千钧一发 / Gattaca  评分：8.7
+Top246 电影名：爱·回家 / 집으로...  评分：9.0
+Top247 电影名：黑鹰坠落 / Black Hawk Down  评分：8.5
+Top248 电影名：聚焦 / Spotlight  评分：8.8
+Top249 电影名：麦兜故事 / 麥兜故事  评分：8.5
+Top250 电影名：暖暖内含光 / Eternal Sunshine of the Spotless Mind  评分：8.4
+
