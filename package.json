@@ -1,0 +1,11 @@
+{
+  "name": "adonga",
+  "version": "1.0.0",
+  "description": "python各种自己做的小项目、脚本等,收藏记录作用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
